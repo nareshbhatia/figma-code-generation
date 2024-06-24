@@ -1,0 +1,11 @@
+{
+  "assetsPath": "",
+  "componentLibrary": "none",
+  "componentsPath": "apps/figma-code-generation/src/components/Button",
+  "framework": "react",
+  "language": "typescript",
+  "nextRouterType": null,
+  "styling": "tailwind",
+  "tailwindConfigPath": "apps/figma-code-generation/tailwind.config.ts",
+  "tailwindConfigReuseEnabled": false
+}
