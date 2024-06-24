@@ -1,6 +1,6 @@
-# Container Demo
+# Figma Code Generation
 
-** Add a short description of Container Demo here. **
+** Add a short description of Figma Code Generation here. **
 
 This repository was bootstrapped with [Code Shaper](https://code-shaper.dev).
 
@@ -23,7 +23,7 @@ npm run storybook
 
 Open browser windows at the following URLs to see the respective apps:
 
-1. http://localhost:3000/: Container Demo
+1. http://localhost:3000/: Figma Code Generation
 2. http://localhost:6006/: Storybook
 
 > Note: Do not run `npm install` or `npm ci` in any of the subdirectories. It
